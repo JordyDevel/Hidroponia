@@ -1,7 +1,7 @@
 # Tareas
 - [ ] Crear presupuesto de automatización
 - [ ] Levantar invernadero
-- [ ] Generar ingresos para automatizar
+- Generar ingresos para automatizar
   - [ ] Alcanzar $1 000.00
   - [ ] Alcanzar $5 000.00
   - [ ] Alcanzar $10 000.00
@@ -9,7 +9,7 @@
 - [ ] Identificar clientes objetivo
 
 # Automatización
-- [ ] Selección de sensores
+- Selección de sensores
   - [x] Sensor de temperatura (LM35)
   - [ ] Sensor de pH
   - [ ] Sensor de luminosidad
@@ -17,7 +17,7 @@
 - [ ] Acondicionamiento de lecturas
 - [ ] Selección de microcontroladores
 - [ ] Programación de los microcontroladores
-- [ ] Implementación del sistema
+- Implementación del sistema
   - [ ] Tiempo de prueba y ensayos
   - [ ] Puesta a punto del sistema
 
@@ -25,3 +25,16 @@
 - [ ] Alta de Razón Social
 - [ ] Alta de cuentas bancarias
 - [ ] Declaración de impuestos
+
+# Producción
+## Bases de datos
+  - [ ] Ventas
+  - [ ] Clientes
+  - [ ] Proveedores
+  - [ ] Empleados
+  - [ ] Permisos de edición de DBs
+
+## Estadística
+  - [ ] Definir tamaño mínimo de muestra
+  - [ ] Definir distribución de probabilidad óptima
+  - [ ] Definir periodods realización de análisis muestral
