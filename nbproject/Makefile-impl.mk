@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Hidroponia.X
+PROJECTNAME=Hidroponia
 
 # Active Configuration
 DEFAULTCONF=default
