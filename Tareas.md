@@ -38,3 +38,5 @@
   - [ ] Definir tamaño mínimo de muestra
   - [ ] Definir distribución de probabilidad óptima
   - [ ] Definir periodods realización de análisis muestral
+ ## Ventas 
+  - [ ] lograr 10 lotes de produccion vendidos antes que termines el año
